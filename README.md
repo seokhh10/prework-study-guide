@@ -32,7 +32,7 @@ To use this study guide, simply clone or download the repository to your local m
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![screenshoot](assets/prework-study-guide)
+![screenshoot](assets/prework-study-guide.png)
 
 ## Credits
 
